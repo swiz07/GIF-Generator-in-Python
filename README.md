@@ -1,1 +1,1 @@
-# GIF Generator in Python.
+# GIF Generator in Python
